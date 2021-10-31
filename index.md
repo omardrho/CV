@@ -37,20 +37,18 @@
 		<h3>COMPETENCES Techniques</h3>
                    
          <ul>
-           <li>ponctualité</li>
-           <li>sérieux</li>
-            <li>curiosité</li>
+           <li>Devopper en C et Python</li>
          </ul>			
                 
 				
       
 
         <h3>COMPETENCES linguistiques</h3>			
-            <ul>
+        <ul>
            <li>ARABE: trés bien</li>
            <li>FRANCAIS:bien</li>
-            <li>ANGLAIS:bien</li>
-         </ul>
+           <li>ANGLAIS:bien</li>
+        </ul>
                 
                
 				
@@ -60,10 +58,10 @@
 		 <section>
             <aside>
 			<h3> CENTRES D'INTERETS:</h3>
-		<ul>
+		     <ul>
            <li>sport</li>
            <li>voyage</li>
-            <li>lecture des livres </li>
+           <li>lecture des livres </li>
          </ul>
 			
                
